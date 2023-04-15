@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Source: https://wiki.haskell.org/Thompson-Wheeler_logo
+
+License: https://wiki.haskell.org/HaskellWiki:Copyrights
+  Permission is hereby granted, free of charge, to any person obtaining this work (the "Work"),
+to deal in the Work without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the Work, and to permit
+persons to whom the Work is furnished to do so.
+  THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK
+OR THE USE OR OTHER DEALINGS IN THE WORK.
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="481.8897pt" height="340.1574pt" viewBox="0 0 481.8897 340.1574" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 340.15625 L 481.890625 340.15625 L 481.890625 0 L 0 0 L 0 340.15625 Z M 0 340.15625 "/>
+</clipPath>
+</defs>
+<g id="surface0">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule: nonzero; fill: rgb(40%,40%,40%); fill-opacity: 1;" d="M 0 340.15625 L 113.386719 170.078125 L 0 0 L 85.039062 0 L 198.425781 170.078125 L 85.039062 340.15625 L 0 340.15625 Z M 0 340.15625 "/>
+<path style=" stroke:none;fill-rule: nonzero; fill: rgb(60%,60%,60%); fill-opacity: 1;" d="M 113.386719 340.15625 L 226.773438 170.078125 L 113.386719 0 L 198.425781 0 L 425.195312 340.15625 L 340.15625 340.15625 L 269.292969 233.859375 L 198.425781 340.15625 L 113.386719 340.15625 Z M 113.386719 340.15625 "/>
+<path style=" stroke:none;fill-rule: nonzero; fill: rgb(40%,40%,40%); fill-opacity: 1;" d="M 387.402344 240.945312 L 349.609375 184.253906 L 481.890625 184.25 L 481.890625 240.945312 L 387.402344 240.945312 Z M 387.402344 240.945312 "/>
+<path style=" stroke:none;fill-rule: nonzero; fill: rgb(40%,40%,40%); fill-opacity: 1;" d="M 330.710938 155.90625 L 292.914062 99.214844 L 481.890625 99.210938 L 481.890625 155.90625 L 330.710938 155.90625 Z M 330.710938 155.90625 "/>
+</g>
+</g>
+</svg>
